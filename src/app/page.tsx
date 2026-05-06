@@ -106,7 +106,7 @@ export default function LandingPage() {
       heading={[
         {
           type: "text",
-          content: "About Sienna / Siegraphix",
+          content: "About Siegraphix",
         },
         {
           type: "image",
